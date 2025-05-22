@@ -1,4 +1,8 @@
 {
+  "homepage": "https://AdithyaPraveenP.github.io/React-tic-tack-toe",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
