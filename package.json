@@ -1,8 +1,8 @@
 {
-  "homepage": "https://AdithyaPraveenP.github.io/React-tic-tack-toe",
+  "homepage": "https://AdithyaPraveenP.github.io/toe",
   
 
-  "name": "tic-tac-toe",
+  "name": "toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
